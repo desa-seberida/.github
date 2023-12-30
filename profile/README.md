@@ -1,7 +1,7 @@
-## Hi there 👋
-Seberida Village is the name of a village located in the Batang Gansal District, Indragiri Hulu Regency.
+## Halo 👋
 
-Seberida Village was founded around 1918 AD, which is an Original Village.
+Desa Seberida adalah sebuah Desa yang terletak di Kecamatan Batang Gansal, Kabupaten Indragiri Hulu, Provinsi Riau, Indonesia.
+
 <!--
 
 **Here are some ideas to get you started:**
